@@ -17,9 +17,12 @@ In this project, I:
 
 ## Key Results
 
-- Fraud Detection Recall: ~0.83  
-- Adversarial Attack Success Rate: ~0.57  
-- Attack Detection Recall (unseen data): ~0.43  
+- Fraud Detection Recall: ~0.83
+  --> Successfully identifies most fraud cases
+- Adversarial Attack Success Rate: ~0.57
+  --> Model can be fooled by small feature changes 
+- Attack Detection Recall (unseen data): ~0.43
+  --> Detecting manipulation is harder than exploiting it
 
 ---
 
